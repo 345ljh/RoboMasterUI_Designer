@@ -1,1 +1,3 @@
 # RoboMasterUI_Designer
+
+在Qt编译后会报错，此时需要将build-RoboMasterUI_Designer-Desktop_Qt_5_15_2_MinGW_64_bit-Debug内文件移至Qt生成的新文件夹内
